@@ -1,0 +1,113 @@
+\resumeSubheading
+{Employee Payroll Management System}{Jan 2026 - Apr 2026}
+{Full-Stack Java Developer}{}
+\resumeItemListStart
+    \resumeItem{• \textbf{Architected and Developed} a comprehensive payroll management system using \textbf{Java} implementing core \textbf{Object-Oriented Programming (OOP)} principles including \textbf{Inheritance, Polymorphism, Abstraction, and Encapsulation}.}
+    
+    \resumeItem{• \textbf{Designed and Implemented} a scalable class hierarchy with an abstract \textbf{Employee} base class and three specialized derived classes (\textbf{FullTimeEmployee, PartTimeEmployee, Intern}) to efficiently handle different employment types and ensure code reusability.}
+    
+    \resumeItem{• \textbf{Engineered Runtime Polymorphism} using method overriding for \textbf{calculateBaseSalary()} and \textbf{calculateSalary()}, enabling dynamic salary computation based on employee type, work patterns, and employment terms.}
+    
+    \resumeItem{• \textbf{Developed Advanced Payroll Calculations} incorporating multiple salary components: \textbf{base salary, sick leave encashment, night shift allowance, shift allowance, performance bonus, and miscellaneous allowances}, with \textbf{pro-rata adjustment} based on days worked.}
+    
+    \resumeItem{• \textbf{Implemented Interactive User Interface} using \textbf{Scanner class} for real-time employee data input, supporting flexible configuration of \textbf{3+ employees} with dynamic salary parameters and allowances.}
+    
+    \resumeItem{• \textbf{Created Professional Reporting System}} generating detailed salary breakdowns with formatted output (\textbf{printf formatting}), monthly payroll summaries, and comprehensive employee salary slips.}
+    
+    \resumeItem{• \textbf{Optimized Code Architecture}} for maintainability and extensibility, enabling seamless integration of additional employee types, new payroll rules, and tax calculation features without modifying existing code.}
+    
+    \resumeItem{• \textbf{Leveraged Version Control}} with \textbf{Git/GitHub} for collaborative development, maintaining clean commit history, and managing codebase effectively (\href{https://github.com/Nolexx07/Employee-Payroll.git}{\textbf{Repository Link}}).}
+    
+    \resumeItem{• \textbf{Technical Stack:}} Java (Core Language), OOP Concepts, Arrays, Scanner I/O, Inheritance/Polymorphism, Git Version Control, and Professional Documentation.}
+    
+    \resumeItem{• \textbf{Future Enhancements:}} Tax calculations, deductions management, database integration, GUI interface, PDF/Excel report generation, and employee attendance tracking system.}
+\resumeItemListEnd
+
+
+================================================================================
+                            ALTERNATIVE COMPACT VERSION
+================================================================================
+
+\resumeSubheading
+{Employee Payroll Management System}{Jan 2026 - Apr 2026}
+{Java Backend Developer}{}
+\resumeItemListStart
+    \resumeItem{Developed an object-oriented payroll system in Java leveraging \textbf{Inheritance}, \textbf{Polymorphism}, and \textbf{Abstraction} for scalable salary management across Full-Time, Part-Time, and Intern employees.}
+    
+    \resumeItem{Engineered advanced salary computation logic handling \textbf{8+ payroll components} including base salary, leave encashment, shift allowances, and performance bonuses with pro-rata calculations.}
+    
+    \resumeItem{Built interactive CLI interface with Scanner-based input validation for real-time employee data collection, enabling flexible configuration and dynamic payroll generation.}
+    
+    \resumeItem{Designed professional reporting module generating formatted salary slips and monthly payroll summaries, improving payroll transparency and employee record management.}
+    
+    \resumeItem{Maintained code quality through Git version control with meaningful commits, comprehensive README documentation, and structured project organization.}
+\resumeItemListEnd
+
+
+================================================================================
+                        KEY TECHNICAL ACHIEVEMENTS
+================================================================================
+
+CORE ACCOMPLISHMENTS:
+• Implemented Abstract Base Class Pattern with polymorphic method overriding
+• Designed 3-tier inheritance hierarchy (Employee → Full-Time/Part-Time/Intern)
+• Developed complex salary calculation algorithm with 8+ financial components
+• Created user-friendly interactive input system with real-time data processing
+• Generated professional formatted output with tabular payroll summaries
+
+SYSTEM FEATURES:
+✓ Multiple Employee Types Support
+✓ Complex Salary Component Calculations
+✓ Leave Management & Encashment System
+✓ Shift-based Allowance Management
+✓ Performance Bonus Integration
+✓ Pro-rata Salary Adjustment
+✓ Professional Salary Slip Generation
+✓ Monthly Payroll Summary Reports
+
+TECHNOLOGIES & SKILLS:
+→ Java Programming (Advanced OOP)
+→ Class Hierarchies & Inheritance
+→ Method Overriding & Polymorphism
+→ Abstract Classes & Interfaces Concept
+→ Scanner Input/Output Handling
+→ String Formatting (printf)
+→ Array Data Structures
+→ Git Version Control & GitHub
+→ Documentation & Code Comments
+
+METRICS & IMPACT:
+• 4 main classes with clear separation of concerns
+• Support for calculating 8+ salary components
+• Handles 3+ concurrent employee records
+• 300+ lines of well-documented code
+• 100% GitHub repository with comprehensive README
+
+
+================================================================================
+                         LINKEDIN SUMMARY VERSION
+================================================================================
+
+🎯 PROJECT OVERVIEW:
+Developed a production-ready Employee Payroll Management System demonstrating 
+expert-level Java programming and OOP principles. The system intelligently 
+calculates salaries for diverse employee types with support for complex payroll 
+scenarios including leave management, shift allowances, and bonus structures.
+
+💡 KEY INNOVATIONS:
+→ Polymorphic salary calculation engine supporting unlimited employee types
+→ Intelligent leave encashment system with configurable policies
+→ Real-time payroll generation with professional formatted reports
+→ Scalable architecture enabling seamless feature extension
+
+🏆 TECHNICAL EXCELLENCE:
+→ Expert implementation of OOP principles (Inheritance, Polymorphism, Abstraction)
+→ Clean, maintainable code with modular class design
+→ Interactive user interface with comprehensive data input validation
+→ Professional documentation and version control practices
+
+📊 BUSINESS VALUE:
+→ Automates salary calculations reducing manual errors
+→ Provides transparent, detailed salary breakdowns for employee records
+→ Scalable to enterprise-level payroll requirements
+→ Foundation for modern HR management systems
